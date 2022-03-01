@@ -1,0 +1,270 @@
+<?xml version="1.0" ?>
+<Reviews>
+	<Review rid="24578">
+		<sentences>
+			<sentence id="24578:0">
+				<text>Зашли в ресторан в выходной день случайно.</text>
+			</sentence>
+			<sentence id="24578:1">
+				<text>Посоветовала сестра, которая частенько там бывает.</text>
+			</sentence>
+			<sentence id="24578:2">
+				<text>Ресторан довольно уютный, милая домашняя обстановка.</text>
+			</sentence>
+			<sentence id="24578:3">
+				<text>Людей было мало, поэтому нам достался столик у окна с видом на Большой проспект.</text>
+			</sentence>
+			<sentence id="24578:4">
+				<text>Очень не плохо.</text>
+			</sentence>
+			<sentence id="24578:5">
+				<text>Еда вкусная, но порции не большие.</text>
+			</sentence>
+			<sentence id="24578:6">
+				<text>Нас было четверо и мы все заказали пасту.</text>
+			</sentence>
+			<sentence id="24578:7">
+				<text>У всех было довольно прилично приготовлено.</text>
+			</sentence>
+			<sentence id="24578:8">
+				<text>Салаты вообще оказались вкуснейшими.</text>
+			</sentence>
+			<sentence id="24578:9">
+				<text>Я брала пасту с грибами.</text>
+			</sentence>
+			<sentence id="24578:10">
+				<text>М-мми.</text>
+			</sentence>
+			<sentence id="24578:11">
+				<text>Вкусно.</text>
+			</sentence>
+			<sentence id="24578:12">
+				<text>Один недостаток, что нас обслуживали очень долго.</text>
+			</sentence>
+			<sentence id="24578:13">
+				<text>На наше замечание девушка сказала, что у них какие-то проблемы на кухне.</text>
+			</sentence>
+			<sentence id="24578:14">
+				<text>Мы не стали выяснять, что за проблемы, но настроение было подпорчено.</text>
+			</sentence>
+			<sentence id="24578:15">
+				<text>Цены средние.</text>
+			</sentence>
+			<sentence id="24578:16">
+				<text>Да, и в ресторане чаевые от суммы оставляют себе сами.</text>
+			</sentence>
+			<sentence id="24578:17">
+				<text>А так не плохо.</text>
+			</sentence>
+			<sentence id="24578:18">
+				<text>Еще можно купить домой масло оливковое.</text>
+			</sentence>
+			<sentence id="24578:19">
+				<text>Очень вкусное.</text>
+			</sentence>
+			<sentence id="24578:20">
+				<text>Желаю приятного времяпровождения.</text>
+			</sentence>
+		</sentences>
+		<Opinions>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="negative"/>
+			<Opinion category="RESTAURANT#GENERAL" polarity="conflict"/>
+			<Opinion category="FOOD#QUALITY" polarity="positive"/>
+			<Opinion category="FOOD#STYLE_OPTIONS" polarity="negative"/>
+			<Opinion category="RESTAURANT#PRICES" polarity="neutral"/>
+		</Opinions>
+	</Review>
+	<Review rid="11267">
+		<sentences>
+			<sentence id="11267:0">
+				<text>Давно не была в таком ужасном месте.</text>
+			</sentence>
+			<sentence id="11267:1">
+				<text>Обслуживание просто ни в какие рамки не лезет, офицантки просто не обращают на тебя никакого внимания, а если уж все-таки удастся кого-нибудь поймать, то на тебя смотрят с таким выражением лица.. &quot;ах, вам еще и принести что-то надо...&quot;.</text>
+			</sentence>
+			<sentence id="11267:2">
+				<text>По-поводу самой еды - ни одно блюдо восхищения не вызвало.</text>
+			</sentence>
+			<sentence id="11267:3">
+				<text>В силу обстоятельств, была в этом ресторанчике не один раз, но как-то с каждым разом убеждаюсь в совем первом впечатлении.</text>
+			</sentence>
+			<sentence id="11267:4">
+				<text>Однажды при заказе супа из меню официантка сказала, что следует заказать другой, так как этот скис (!!!).</text>
+			</sentence>
+			<sentence id="11267:5">
+				<text>Интерьер - очень темный, не каждому тоже будет по вкусу.</text>
+			</sentence>
+			<sentence id="11267:6">
+				<text>В общем, не советую ходить в это место.</text>
+			</sentence>
+			<sentence id="11267:7">
+				<text>На той же улице есть довольно много заведений лучшего качества.</text>
+			</sentence>
+		</sentences>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="negative"/>
+			<Opinion category="AMBIENCE#GENERAL" polarity="negative"/>
+			<Opinion category="FOOD#QUALITY" polarity="negative"/>
+			<Opinion category="RESTAURANT#GENERAL" polarity="negative"/>
+		</Opinions>
+	</Review>
+	<Review rid="1878">
+		<sentences>
+			<sentence id="1878:0">
+				<text>Был недавно в этом ресторане с друзьями днем, все очень понравилось.</text>
+			</sentence>
+			<sentence id="1878:1">
+				<text>Встретили, предложили выбрать столик, народу было немного, атмосфера приятная.</text>
+			</sentence>
+			<sentence id="1878:2">
+				<text>Сразу подошла официантка, с темными волосами, к сожалению имя не запомнил, обслуживание в ресторане отличное, тут ничего не скажешь!</text>
+			</sentence>
+			<sentence id="1878:3">
+				<text>На мою просьбу помочь выбрать блюдо, девушка с радостью предложила нам пару салатиков и горячее, готовили все очень быстро и все блюда были обалденно вкусными.</text>
+			</sentence>
+			<sentence id="1878:4">
+				<text>Очень рад что приехал сюда, хоть и находится далековато,но я ни разу не пожалел, буду советовать всем своим друзьям это заведение.</text>
+			</sentence>
+		</sentences>
+		<Opinions>
+			<Opinion category="SERVICE#GENERAL" polarity="positive"/>
+			<Opinion category="LOCATION#GENERAL" polarity="negative"/>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive"/>
+			<Opinion category="FOOD#QUALITY" polarity="positive"/>
+			<Opinion category="RESTAURANT#GENERAL" polarity="positive"/>
+		</Opinions>
+	</Review>
+	<Review rid="33798">
+		<sentences>
+			<sentence id="33798:0">
+				<text>Живу недалеко от этого ресторана.</text>
+			</sentence>
+			<sentence id="33798:1">
+				<text>Часто приходим сюда с семьей или друзьями, потому что здесь всегда можно вкусно поесть и приятно провести вечер.</text>
+			</sentence>
+			<sentence id="33798:2">
+				<text>Очень разнообразное меню, до сих пор всё не перепробовали.</text>
+			</sentence>
+			<sentence id="33798:3">
+				<text>Очень радует, что есть японская и итальянская кухни.</text>
+			</sentence>
+			<sentence id="33798:4">
+				<text>Подходит для всех)</text>
+			</sentence>
+			<sentence id="33798:5">
+				<text>Паста и суши всегда на отлично!</text>
+			</sentence>
+			<sentence id="33798:6">
+				<text>Очень нравится блюда на гриле.</text>
+			</sentence>
+			<sentence id="33798:7">
+				<text>В общем, к еде никаих претензий.</text>
+			</sentence>
+			<sentence id="33798:8">
+				<text>Сам интерьер спокойный и приятный.</text>
+			</sentence>
+			<sentence id="33798:9">
+				<text>Официанты внимательные, но ненавящивые.</text>
+			</sentence>
+			<sentence id="33798:10">
+				<text>С удовольствием посещаем этот ресторан)))</text>
+			</sentence>
+		</sentences>
+		<Opinions>
+			<Opinion category="RESTAURANT#GENERAL" polarity="positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="positive"/>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive"/>
+			<Opinion category="FOOD#QUALITY" polarity="positive"/>
+			<Opinion category="FOOD#STYLE_OPTIONS" polarity="positive"/>
+		</Opinions>
+	</Review>
+	<Review rid="36359">
+		<sentences>
+			<sentence id="36359:0">
+				<text>Н Начну из далека)) года 1,5-2 назад заходила в &quot;дали&quot; и осталась с неоднозначными впечатлениями (то ли понравилось,то ли нет).</text>
+			</sentence>
+			<sentence id="36359:1">
+				<text>Кухня никакая,какой-то странный персонал в непонятной форме,обслуживание тоже ни о чем.</text>
+			</sentence>
+			<sentence id="36359:2">
+				<text>Единственное что зацепило - дизайн кафе,уж очень красивый.</text>
+			</sentence>
+			<sentence id="36359:3">
+				<text>Буквально на днях решила рискнуть и зайти отдохнуть.</text>
+			</sentence>
+			<sentence id="36359:4">
+				<text>Кафе можно было узнать только по оставленному дизайну,все остальное поменялось.</text>
+			</sentence>
+			<sentence id="36359:5">
+				<text>Заказала себе салат,так мне даже было жалко его съесть,настолько было красиво украшен))я уже не говорю,что было очень вкусно).</text>
+			</sentence>
+			<sentence id="36359:6">
+				<text>Очень понравилось ненавязчивое и качественное обслуживание.</text>
+			</sentence>
+			<sentence id="36359:7">
+				<text>Спасибо Вам большое за уютную атмосферу,от Вас даже не хотелось уходить,все настолько было тепло и радушно!)</text>
+			</sentence>
+		</sentences>
+		<Opinions>
+			<Opinion category="FOOD#QUALITY" polarity="positive"/>
+			<Opinion category="AMBIENCE#GENERAL" polarity="positive"/>
+			<Opinion category="RESTAURANT#GENERAL" polarity="positive"/>
+			<Opinion category="SERVICE#GENERAL" polarity="positive"/>
+		</Opinions>
+	</Review>
+	<Review rid="1032">
+		<sentences>
+			<sentence id="1032:0">
+				<text>Посетили этот ресторан 25,08,12.</text>
+			</sentence>
+			<sentence id="1032:1">
+				<text>После посещения желания прийти ещё раз нет.</text>
+			</sentence>
+			<sentence id="1032:2">
+				<text>Очень много недочетов как в работе официантов так и в блюдах. 1.</text>
+			</sentence>
+			<sentence id="1032:3">
+				<text>Были с ребенком, заказали из детского меню пиццу.</text>
+			</sentence>
+			<sentence id="1032:4">
+				<text>К большому удивлению пицца (ещё раз - из детского меню!) была на столько острая, что и взрослые не смогли её есть, не говоря уже о ребенке.</text>
+			</sentence>
+			<sentence id="1032:5">
+				<text>Официант вообще прокомментировала это так, что детское меню - это для взрослых, которые хотят заказать маленькие порции, а не для детей. :)) 2.</text>
+			</sentence>
+			<sentence id="1032:6">
+				<text>Попросили принести обычный яблочный сок, не свежевыжатый, принесли свежевыжатый, пришлось вернуть. 3.</text>
+			</sentence>
+			<sentence id="1032:7">
+				<text>Просили принести &quot;свежевыжатый сок в большом стакане + газированную воду&quot; сок принесли в маленьком стакане про воду забыли. 4.</text>
+			</sentence>
+			<sentence id="1032:8">
+				<text>Просили официанта помочь выбрать из 2-х блюд.</text>
+			</sentence>
+			<sentence id="1032:9">
+				<text>Официант сказал &quot;у нас все вкусное&quot; и помочь с выбором не смог.</text>
+			</sentence>
+			<sentence id="1032:10">
+				<text>За кухню оценка 3, т.к. из всего заказа понравилась только панакота.</text>
+			</sentence>
+			<sentence id="1032:11">
+				<text>Салат Цезарь был так себе + очень острая пицца из детского меню.</text>
+			</sentence>
+			<sentence id="1032:12">
+				<text>За сервис 3, т.к. официант путала заказы, не могла помочь с выбором (или не хотела, когда клиент просит помочь определиться, он не хочет услышать &quot;все вкусное, берите все&quot;).</text>
+			</sentence>
+			<sentence id="1032:13">
+				<text>А мнение что детское меню не для детей, вообще &quot;убило&quot;.</text>
+			</sentence>
+			<sentence id="1032:14">
+				<text>Из плюсов хочу отметить няню в детской комнате, очень милая девушка, ребенку очень понравилась.</text>
+			</sentence>
+		</sentences>
+		<Opinions>
+			<Opinion category="RESTAURANT#GENERAL" polarity="negative"/>
+			<Opinion category="FOOD#QUALITY" polarity="conflict"/>
+			<Opinion category="SERVICE#GENERAL" polarity="negative"/>
+		</Opinions>
+	</Review>
+</Reviews>
